@@ -195,6 +195,36 @@
      "filterable": 0,
      "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/olevod.json"
 }
+{
+      "key":"csp_xpath_vipmv",
+      "name":"@追剧达人(XPath)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/vipmv.json"
+    },
+    { 
+     "key":"csp_xpath_pianku",
+     "name":"@片库网(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/pianku.json"
+    },
+    {
+    "key":"csp_xpath_onedianshi",
+     "name":"@ONE蓝光影院(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/onedianshi.json"
+    }
 
 ```
 
