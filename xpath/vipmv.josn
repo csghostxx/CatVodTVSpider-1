@@ -1,5 +1,4 @@
 {
-    "author": "backthen",
     "ua": "",
     "homeUrl": "https://vipmv.tv",
     "cateNode": "//div[@class='homepage_main_tabs_title']/a[contains(@href, 'vodshow')]",
