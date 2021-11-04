@@ -224,6 +224,16 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/onedianshi.json"
+},
+{
+    "key":"csp_xpath_nfusx",
+     "name":"南府影视(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/nfuxs.json"
 }
 
 ```
